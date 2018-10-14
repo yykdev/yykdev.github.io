@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://yykdev.github.io/"
 title: Type on Strap # site's title
 description: "A website with blog posts and pages" # used by search engines
 
@@ -8,10 +8,10 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Blog of Nouveau # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: e42847119cd017eb7c234247760cf3f6 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -28,12 +28,12 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  gitlab:
-  github: "sylhare"
+  gitlab: "yykdev"
+  github: "yykdev"
   google_plus:
-  instagram:
+  instagram: "nouveau.dev"
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/%EC%9A%A9%EC%97%B0-%EA%B9%80-790162140/" # Full URL
   pinterest:
   reddit:
   soundcloud:
