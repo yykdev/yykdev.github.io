@@ -66,6 +66,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   <mark>AWS RDS</mark>, <mark>AWS Route53</mark>, <mark>AWS s3</mark>, <mark>AWS Elastic Beanstalk</mark>
 
+  <mark>Docker</mark>, <mark>Git</mark>
+
 
 content:
   - title: Experience # Title for the section
@@ -93,18 +95,27 @@ content:
           ------------------------------------------------------------------------------------------------
           
           * 인재검증 플랫폼 '스펙터' 서비스 리드 개발
-            - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
+            - 주요 작업
+              - 지원자/평판작성자/기업고객 도메인 별 회원가입, 대시보드, 어드민 고도화
+              - 지원자별 평판 데이터를 기반으로 성향 키워드 시스템 개발
+              - 결제/리워드 시스템 및 열람 승인 프로세스 개발
+              - 평판 데이터 PDF 다운로드 서버 개발 및 PDF 생성 벌크 모듈 개발
+            - 기술 스택
+              - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
+              - OS : AWS Elastic Beanstalk Linux ubuntu
+              - WebServer : Nginx
+              - DB : AWS RDS( PostgreSQL )
 
           * 심부름 공유 앱 서비스 리드 개발
-            - 위치 기반 
-
-            - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
+            - 주요 작업
+              - 위치 기반 심부름 생성 및 조회 시스템 구현
+              - PostgreSQL 성능 튜닝 및 데이터 캐싱을 통한 조회 속도 개선
+              - React Native를 기반으로 IOS, Android 앱 개발 및 마켓 출시
+            - 기술 스택
+              - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
+              - OS : AWS Elastic Beanstalk Linux ubuntu
+              - WebServer : Nginx
+              - DB : AWS RDS( PostgreSQL )
 
       - layout: left
         title: 헤렌( 파인앳플 )
@@ -151,10 +162,10 @@ content:
           ------------------------------------------------------------------------------------------------
 
           * 대량메일 솔루션 '썬더메일' 개발 및 구축
-            - Lang : Java / Spring, JS/JQeury, Ajax,
-            - OS : Linux, Window, Unix
-            - WAS : Tomcat
-            - DB : Mysql(Maria), Oracle, MSSQL
+              - Lang : Java / Spring, JS/JQeury, Ajax,
+              - OS : Linux, Window, Unix
+              - WAS : Tomcat
+              - DB : Mysql(Maria), Oracle, MSSQL
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
