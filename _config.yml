@@ -66,26 +66,38 @@ content:
         description: | # this will include new lines to allow paragraphs
           * 스펙터는 국내 최초 인재 검증 플랫폼이며, 인재 검증 시스템을 통해, 인재의 역량을 객관적으로 평가하여 기업의 인재 채용 과정을 효율적으로 지원하며, 지원자에게는 긴장감이 흐르는 면접자리에서 미처 다 표현하지 못한 본인의 역량을 어필 할 수 있도록 지원 함으로써, 채용시장에서의 기업과 지원자의 균형을 이루는 목표를 가진 플랫폼 입니다.
           
-          * 2019년 6월 스펙터(구. 타운어스)에 입사하여, 대표님과 부대표님과 함께 시작하였고, 개발을 총괄하여 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 스펙터는 2021년 6월 출시 이후, 2022년 8월까지 누적 투자 80억원을 달성하였습니다.
-          
-          * 초기 부터 약 2년 반 정도 혼자 개발을 담당 해오다 6명 규모의 개발팀을 구성하였습니다.
+          * 2019년 6월 스펙터(구. 타운어스)에 입사하여, 대표님, 부대표님과 함께 시작하였고, 개발을 총괄하여 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 초기 부터 약 2년 반 정도 혼자 개발을 담당 해오다 6명 규모로 팀빌딩을 하였고, 스펙터는 2021년 6월 출시 이후, 2022년 8월까지 누적 투자 80억원을 달성하였습니다.
           
           * 입사 후 스펙터 출시 전, 심부름 공유 플랫폼 태스크 마켓 서비스를 출시 하였으며, 백엔드, 모바일 앱 개발을 총괄 하였고, 코로나 및 사업성 문제로 서비스를 종료 하였습니다.
           
           * 2019.06 ~ 2023.06 : CTO ( Demo, Seed, Pre A, Series A )
           * 2023.07 ~ 2023.10 : Backend Developer
 
+      - layout: left
+        title: 헤렌( 파인앳플 )
+        sub_title: 파인앳플 파트 개발리드
+        caption: 2017.10 ~ 2019.05
+        link: https://www.fineadple.com/
+        quote: >
+          인스타그램, 블로그 인플루언서 마케팅 플랫폼
+        description: | # this will include new lines to allow paragraphs
+          * 파인앳플은 인스타그램, 블로그 인플루언서 마케팅 플랫폼으로, 인플루언서 마케팅 시장에서 기존의 수동적인 방식에서 벗어나, 데이터 기반의 인플루언서 마케팅 솔루션을 제공하는 플랫폼 입니다. 광고주는 제품 또는 이벤트를 인플루언서에게 제공하고, 각 인플루언서는 본인의 플랫폼(인스타그램, 블로그 등)에서 광고주의 제품 또는 이벤트를 홍보하는 방식으로 운영되고 있습니다.
+          
+          * 파인앳플은 2017년 10월 출시 이후, 2020년 12월까지 누적 투자 10억원을 달성하였습니다.
+          
+          * 2017년 10월 파인앳플에 입사하여, 파인앳플 파트 개발리드로 입사 하였고, 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 초기 부터 정식 런칭 및 매출 발생 시기인 6개월 까지 혼자 개발을 담당 하였고, 매출 발생 후 총 4명의 규모로 팀빌딩을 하였습니다.
 
-      # - layout: left
-      #   title: The Boring Company
-      #   link: boringcompany.com
-      #   # link_text: boringcompany.com
-      #   sub_title: Senior Network System Administrator
-      #   caption: November 2017 - Present
-      #   quote: >
-      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #       Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - layout: left
+        title: 앤드와이즈( 썬더메일 )
+        sub_title: 썬더메일 사업부 개발팀 대리
+        caption: 2011.10 ~ 2017.02
+        link: https://www.thundermail.co.kr/thunder_kr/index.jsp
+        quote: >
+          대량 / 자동 / 보안 메일을 기반으로 한 이메일 마케팅 솔루션
+        description: | # this will include new lines to allow paragraphs
+          * 썬더메일은 정부기관, 금융권, 교육기관 및 일반기업 등 약 200개의 고객사를 보유한(2017년 기준) 이메일 마케팅 솔루션으로, 대량메일, 자동메일을 기반으로 설문조사, 보안메일 등의 고객사 요구사항 별 커스터마이징이 가능한 솔루션이며, 안정적인 발송속도와 성공률을 기반으로 하여 통계정보를 제공합니다.
+
+          * 국방부, 우정사업본부, 삼성의료원, 한국방송통신대학교, 전파연구원, 방송광고진흥공사 등 약 30 여 개의 프로젝트 진행하였으며, 신규 기능 및 고객사별 커스터마이징 개발, 운영체제/DB 별 솔루션 설치, 유지보수 등의 업무를 진행 하였습니다.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,18 +143,6 @@ content:
         #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
