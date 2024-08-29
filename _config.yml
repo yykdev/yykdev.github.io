@@ -72,7 +72,9 @@ content:
           
           * 2019.06 ~ 2023.06 : CTO ( Demo, Seed, Pre A, Series A )
           * 2023.07 ~ 2023.10 : Backend Developer
-
+          
+          ------------------------------------------------------------------------------------------------
+          
           * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
             - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
             - OS : AWS Elastic Beanstalk Linux ubuntu
