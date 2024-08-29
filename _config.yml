@@ -73,6 +73,18 @@ content:
           * 2019.06 ~ 2023.06 : CTO ( Demo, Seed, Pre A, Series A )
           * 2023.07 ~ 2023.10 : Backend Developer
 
+          * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
+            - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
+
+          * 심부름 공유 앱 서비스 리드 개발
+            - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
+
       - layout: left
         title: 헤렌( 파인앳플 )
         sub_title: 파인앳플 파트 개발리드
@@ -84,6 +96,13 @@ content:
           * 파인앳플은 인스타그램, 블로그 인플루언서 마케팅 플랫폼으로, 인플루언서 마케팅 시장에서 기존의 수동적인 방식에서 벗어나, 데이터 기반의 인플루언서 마케팅 솔루션을 제공하는 플랫폼 입니다. 광고주는 제품 또는 이벤트를 인플루언서에게 제공하고, 각 인플루언서는 본인의 플랫폼(인스타그램, 블로그 등)에서 광고주의 제품 또는 이벤트를 홍보하는 방식으로 운영되고 있습니다.
                     
           * 2017년 10월 파인앳플에 입사하여, 파인앳플 파트 개발리드로 입사 하였고, 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 초기 부터 정식 런칭 및 매출 발생 시기인 6개월까지 혼자 개발을 담당 하였고, 매출 발생 후 총 4명의 규모로 팀빌딩을 하였습니다.
+
+          * 인플루언서 마케팅 서비스 '파인앳플' 웹서비스 리드 개발
+            - https://www.fineadple.com/
+            - Lang : Python / Django, Django Rest Framework, JS/JQeury, Ajax
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
 
       - layout: left
         title: 앤드와이즈( 썬더메일 )
@@ -97,40 +116,6 @@ content:
 
           * 국방부, 우정사업본부, 삼성의료원, 한국방송통신대학교, 전파연구원, 방송광고진흥공사 등 약 30 여 개의 프로젝트 진행하였으며, 신규 기능 및 고객사별 커스터마이징 개발, 운영체제/DB 별 솔루션 설치, 유지보수 등의 업무를 진행 하였습니다.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: 스펙터
-        link: https://www.specter.co.kr/
-        description: | # this will include new lines to allow paragraphs
-          * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
-            - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
-
-          * 심부름 공유 앱 서비스 리드 개발
-            - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
-
-      - layout: top-middle
-        title: 헤렌( 파인앳플 )
-        link: https://www.fineadple.com/
-        description: | # this will include new lines to allow paragraphs
-          * 인플루언서 마케팅 서비스 '파인앳플' 웹서비스 리드 개발
-            - https://www.fineadple.com/
-            - Lang : Python / Django, Django Rest Framework, JS/JQeury, Ajax
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
-
-      - layout: top-middle
-        title: 앤드와이즈( 썬더메일 )
-        link: https://www.thundermail.co.kr/thunder_kr/index.jsp
-        description: | # this will include new lines to allow paragraphs
           * 대량메일 솔루션 '썬더메일' 개발 및 구축
             - Lang : Java / Spring, JS/JQeury, Ajax,
             - OS : Linux, Window, Unix
