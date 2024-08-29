@@ -50,7 +50,12 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark>, <mark>Eating Pizza</mark>
+
+
+  <mark>Python</mark>, <mark>Django</mark>, <mark>Django Rest Framework</mark>, <mark>Javascript</mark>, <mark>Jquery</mark>, <mark>Java</mark>, <mark>Spring</mark>, <mark>Linux</mark>, <mark>Window</mark>, <mark>Unix</mark>, <mark>Nginx</mark>, <mark>Tomcat</mark>, <mark>PostgreSQL</mark>, <mark>Mysql(Maria)</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>
+  
+  AWS RDS, Route53, s3, Elastic Beanstalk
 
 content:
   - title: Experience # Title for the section
@@ -127,7 +132,7 @@ content:
           * 국방부, 우정사업본부, 삼성의료원, 한국방송통신대학교, 전파연구원, 방송광고진흥공사 등 약 30 여 개의 프로젝트 진행하였으며, 신규 기능 및 고객사별 커스터마이징 개발, 운영체제/DB 별 솔루션 설치, 유지보수 등의 업무를 진행 하였습니다.
 
           ------------------------------------------------------------------------------------------------
-          
+
           * 대량메일 솔루션 '썬더메일' 개발 및 구축
             - Lang : Java / Spring, JS/JQeury, Ajax,
             - OS : Linux, Window, Unix
