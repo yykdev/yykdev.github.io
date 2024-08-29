@@ -82,10 +82,8 @@ content:
           인스타그램, 블로그 인플루언서 마케팅 플랫폼
         description: | # this will include new lines to allow paragraphs
           * 파인앳플은 인스타그램, 블로그 인플루언서 마케팅 플랫폼으로, 인플루언서 마케팅 시장에서 기존의 수동적인 방식에서 벗어나, 데이터 기반의 인플루언서 마케팅 솔루션을 제공하는 플랫폼 입니다. 광고주는 제품 또는 이벤트를 인플루언서에게 제공하고, 각 인플루언서는 본인의 플랫폼(인스타그램, 블로그 등)에서 광고주의 제품 또는 이벤트를 홍보하는 방식으로 운영되고 있습니다.
-          
-          * 파인앳플은 2017년 10월 출시 이후, 2020년 12월까지 누적 투자 10억원을 달성하였습니다.
-          
-          * 2017년 10월 파인앳플에 입사하여, 파인앳플 파트 개발리드로 입사 하였고, 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 초기 부터 정식 런칭 및 매출 발생 시기인 6개월 까지 혼자 개발을 담당 하였고, 매출 발생 후 총 4명의 규모로 팀빌딩을 하였습니다.
+                    
+          * 2017년 10월 파인앳플에 입사하여, 파인앳플 파트 개발리드로 입사 하였고, 인프라 설계, 백엔드 및 프론트엔드를 담당하였으며, 초기 부터 정식 런칭 및 매출 발생 시기인 6개월까지 혼자 개발을 담당 하였고, 매출 발생 후 총 4명의 규모로 팀빌딩을 하였습니다.
 
       - layout: left
         title: 앤드와이즈( 썬더메일 )
@@ -106,7 +104,35 @@ content:
         title: 스펙터
         link: https://www.specter.co.kr/
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
+          - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
+          - OS : AWS Elastic Beanstalk Linux ubuntu
+          - WebServer : Nginx
+          - DB : AWS RDS( PostgreSQL )
+
+          * 심부름 공유 앱 서비스 리드 개발
+          - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
+          - OS : AWS Elastic Beanstalk Linux ubuntu
+          - WebServer : Nginx
+          - DB : AWS RDS( PostgreSQL )
+
+      # - layout: top-middle
+      #   title: 스펙터
+      #   link: https://www.specter.co.kr/
+      #   description: | # this will include new lines to allow paragraphs
+      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+      # - layout: top-middle
+      #   title: 스펙터
+      #   link: https://www.specter.co.kr/
+      #   description: | # this will include new lines to allow paragraphs
+      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+      # - layout: top-middle
+      #   title: 스펙터
+      #   link: https://www.specter.co.kr/
+      #   description: | # this will include new lines to allow paragraphs
+      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
