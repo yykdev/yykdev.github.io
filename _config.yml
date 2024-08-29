@@ -99,6 +99,8 @@ content:
             - DB : AWS RDS( PostgreSQL )
 
           * 심부름 공유 앱 서비스 리드 개발
+            - 위치 기반 
+
             - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
             - OS : AWS Elastic Beanstalk Linux ubuntu
             - WebServer : Nginx
@@ -121,11 +123,16 @@ content:
           ------------------------------------------------------------------------------------------------
 
           * 인플루언서 마케팅 서비스 '파인앳플' 웹서비스 리드 개발
-            - https://www.fineadple.com/
-            - Lang : Python / Django, Django Rest Framework, JS/JQeury, Ajax
-            - OS : AWS Elastic Beanstalk Linux ubuntu
-            - WebServer : Nginx
-            - DB : AWS RDS( PostgreSQL )
+            - 주요 작업
+              - 광고주/인플루언서 도메인 별 회원가입, 대시보드, 어드민 고도화
+              - 회원 가입시 인플루언서의 블로그/인스타그램 인증 및 팔로워 조회를 위한 OAuth 미들웨어 커스터마이징
+              - 인플루언서의 포스팅 등록시 일정기간 게시물 유효성 체크 배치 모듈 개발
+              - 인스타그램/블로그 포스팅 사진 및 영상 수집 배치 모듈 개발
+            - 기술 스택
+              - Lang : Python / Django, Django Rest Framework, JS/JQeury, Ajax
+              - OS : AWS Elastic Beanstalk Linux ubuntu
+              - WebServer : Nginx
+              - DB : AWS RDS( PostgreSQL )
 
       - layout: left
         title: 앤드와이즈( 썬더메일 )
