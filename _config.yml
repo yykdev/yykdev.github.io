@@ -105,34 +105,37 @@ content:
         link: https://www.specter.co.kr/
         description: | # this will include new lines to allow paragraphs
           * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
-          - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
-          - OS : AWS Elastic Beanstalk Linux ubuntu
-          - WebServer : Nginx
-          - DB : AWS RDS( PostgreSQL )
+            - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
 
           * 심부름 공유 앱 서비스 리드 개발
-          - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
-          - OS : AWS Elastic Beanstalk Linux ubuntu
-          - WebServer : Nginx
-          - DB : AWS RDS( PostgreSQL )
+            - Lang : Python / Django ( + Django Rest Framework ), React Native ( IOS, Android )
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
 
-      # - layout: top-middle
-      #   title: 스펙터
-      #   link: https://www.specter.co.kr/
-      #   description: | # this will include new lines to allow paragraphs
-      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: 헤렌( 파인앳플 )
+        link: https://www.fineadple.com/
+        description: | # this will include new lines to allow paragraphs
+          * 인플루언서 마케팅 서비스 '파인앳플' 웹서비스 리드 개발
+            - https://www.fineadple.com/
+            - Lang : Python / Django, Django Rest Framework, JS/JQeury, Ajax
+            - OS : AWS Elastic Beanstalk Linux ubuntu
+            - WebServer : Nginx
+            - DB : AWS RDS( PostgreSQL )
 
-      # - layout: top-middle
-      #   title: 스펙터
-      #   link: https://www.specter.co.kr/
-      #   description: | # this will include new lines to allow paragraphs
-      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-      # - layout: top-middle
-      #   title: 스펙터
-      #   link: https://www.specter.co.kr/
-      #   description: | # this will include new lines to allow paragraphs
-      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: 앤드와이즈( 썬더메일 )
+        link: https://www.thundermail.co.kr/thunder_kr/index.jsp
+        description: | # this will include new lines to allow paragraphs
+          * 대량메일 솔루션 '썬더메일' 개발 및 구축
+            - Lang : Java / Spring, JS/JQeury, Ajax,
+            - OS : Linux, Window, Unix
+            - WAS : Tomcat
+            - DB : Mysql(Maria), Oracle, MSSQL
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
