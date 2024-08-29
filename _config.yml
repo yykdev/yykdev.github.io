@@ -46,11 +46,17 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Python & Django / Java & Spring, AWS 인프라 기반의 12년차 백엔드 개발자이며, 대량메일 솔루션, 인재검증 플랫폼, 인플루언서 마케팅 플랫폼 등의 서비스에서 플랫폼 개발 및 AWS 인프라 구축 등을 담당 해 왔습니다.
 
-  I am most skilled in: <mark>AWS</mark>, <mark>Eating Pizza</mark>
+  서비스 운영, 유지보수, 신규기능 개발도 좋지만, 아이디어 / 비즈니스의 구상, 설계 단계의 극 초기 부터 인프라 및 DB 설계 모든 부분을 관여하며 처음 부터 끝까지 개발 하는 것을 선호하여 신규 사업부나, 얼리 스테이지 스타트업을 선호하는 편 입니다.
+
+  개발자 또는 개발팀이 없는 신규 사업부나 얼리 스테이지의 스타트업들에 합류하여 인플루언서 마케팅 플랫폼과, 인재검증(평판조회) 플랫폼을 초기 1인 개발로 담당하여 DB 설계, 인프라구성 및 데모 부터 정식 프로덕트 런칭까지 개발경험과 팀빌딩의 경험을 쌓으며, 각각 6개월 내 월 매출 5천만원(마케팅 플랫폼), 누적 투자 80억원(인재검증 플랫폼)에 기여한 경험이 있습니다.
+
+  ------------------------------------------------------------------------------------------------
+
+  <mark>Python</mark>, <mark>Django</mark>, <mark>Django Rest Framework</mark>, <mark>Javascript</mark>, <mark>Jquery</mark>, <mark>Java</mark>, <mark>Spring</mark>, <mark>Linux</mark>, <mark>Window</mark>, <mark>Unix</mark>, <mark>Nginx</mark>, <mark>Tomcat</mark>, <mark>PostgreSQL</mark>, <mark>Mysql(Maria)</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>AWS RDS</mark>, <mark>AWS Route53</mark>, <mark>AWS s3</mark>, <mark>AWS Elastic Beanstalk</mark>
 
 
 content:
@@ -117,7 +123,7 @@ content:
         title: 앤드와이즈( 썬더메일 )
         sub_title: 썬더메일 사업부 개발팀 대리
         caption: 2011.10 ~ 2017.02
-        link: https://www.thundermail.co.kr/thunder_kr/index.jsp
+        link: https://www.thundermail.co.kr/
         quote: >
           대량 / 자동 / 보안 메일을 기반으로 한 이메일 마케팅 솔루션
         description: | # this will include new lines to allow paragraphs
@@ -134,13 +140,6 @@ content:
             - OS : Linux, Window, Unix
             - WAS : Tomcat
             - DB : Mysql(Maria), Oracle, MSSQL
-
-  - title: Skills # Title for the section
-    layout: text
-    content:
-      - layout: left
-        description: | # this will include new lines to allow paragraphs
-        <mark>Python</mark>, <mark>Django</mark>, <mark>Django Rest Framework</mark>, <mark>Javascript</mark>, <mark>Jquery</mark>, <mark>Java</mark>, <mark>Spring</mark>, <mark>Linux</mark>, <mark>Window</mark>, <mark>Unix</mark>, <mark>Nginx</mark>, <mark>Tomcat</mark>, <mark>PostgreSQL</mark>, <mark>Mysql(Maria)</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>AWS RDS</mark>, <mark>AWS Route53</mark>, <mark>AWS s3</mark>, <mark>AWS Elastic Beanstalk</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
