@@ -77,7 +77,7 @@ content:
         caption: 2019.06 ~ 2023.10
         link: https://www.specter.co.kr/
         quote: >
-          누적투자 80역, 국내 최초 인재 검증 플랫폼
+          누적투자 80억, 국내 최초 인재 검증 플랫폼
         description: | # this will include new lines to allow paragraphs
           * 스펙터는 국내 최초 인재 검증 플랫폼이며, 인재 검증 시스템을 통해, 인재의 역량을 객관적으로 평가하여 기업의 인재 채용 과정을 효율적으로 지원하며, 지원자에게는 긴장감이 흐르는 면접자리에서 미처 다 표현하지 못한 본인의 역량을 어필 할 수 있도록 지원 함으로써, 채용시장에서의 기업과 지원자의 균형을 이루는 목표를 가진 플랫폼 입니다.
           
@@ -92,7 +92,7 @@ content:
           
           ------------------------------------------------------------------------------------------------
           
-          * 인재검증 플랫폼 '스펙터' 서비스 리드 개발 및 출시
+          * 인재검증 플랫폼 '스펙터' 서비스 리드 개발
             - Lang : Python / Django ( + Django Rest Framework ), Javascript/Jquery
             - OS : AWS Elastic Beanstalk Linux ubuntu
             - WebServer : Nginx
