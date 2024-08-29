@@ -53,10 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark>, <mark>Eating Pizza</mark>
 
 
-  <mark>Python</mark>, <mark>Django</mark>, <mark>Django Rest Framework</mark>, <mark>Javascript</mark>, <mark>Jquery</mark>, <mark>Java</mark>, <mark>Spring</mark>, <mark>Linux</mark>, <mark>Window</mark>, <mark>Unix</mark>, <mark>Nginx</mark>, <mark>Tomcat</mark>, <mark>PostgreSQL</mark>, <mark>Mysql(Maria)</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>
-  
-  AWS RDS, Route53, s3, Elastic Beanstalk
-
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -138,6 +134,13 @@ content:
             - OS : Linux, Window, Unix
             - WAS : Tomcat
             - DB : Mysql(Maria), Oracle, MSSQL
+
+  - title: Skills # Title for the section
+    layout: text
+    content:
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+        <mark>Python</mark>, <mark>Django</mark>, <mark>Django Rest Framework</mark>, <mark>Javascript</mark>, <mark>Jquery</mark>, <mark>Java</mark>, <mark>Spring</mark>, <mark>Linux</mark>, <mark>Window</mark>, <mark>Unix</mark>, <mark>Nginx</mark>, <mark>Tomcat</mark>, <mark>PostgreSQL</mark>, <mark>Mysql(Maria)</mark>, <mark>Oracle</mark>, <mark>MSSQL</mark>, <mark>AWS RDS</mark>, <mark>AWS Route53</mark>, <mark>AWS s3</mark>, <mark>AWS Elastic Beanstalk</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
